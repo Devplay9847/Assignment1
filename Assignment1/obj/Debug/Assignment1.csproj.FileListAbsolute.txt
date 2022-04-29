@@ -1,0 +1,8 @@
+F:\C SHARP PROJECTS\bridgelab\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+F:\C SHARP PROJECTS\bridgelab\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+F:\C SHARP PROJECTS\bridgelab\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+F:\C SHARP PROJECTS\bridgelab\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+F:\C SHARP PROJECTS\bridgelab\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.SuggestedBindingRedirects.cache
+F:\C SHARP PROJECTS\bridgelab\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+F:\C SHARP PROJECTS\bridgelab\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+F:\C SHARP PROJECTS\bridgelab\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
